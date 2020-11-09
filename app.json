@@ -1,0 +1,12 @@
+{
+  "name": "BookTinder",
+  "displayName": "BookTinder",
+  "expo": {
+    "name": "BookTinder",
+    "slug": "BookTinder",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
